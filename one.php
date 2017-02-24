@@ -10,4 +10,4 @@ $contents = str_replace("\r","\n",$contents);
 
 // Display one cookie
 $cookies = explode("\n\n", $contents);
-print(array_rand($keys));
+printf("%s\n",$cookies[array_rand($cookies)]);
