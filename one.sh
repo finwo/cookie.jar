@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-cat "$(find jar -type f | grep -v bundle | shuf -n 1)"
+WD=$(dirname $0)
+cat "$(find $WD/jar -type f | grep -v bundle | shuf -n 1)"
