@@ -2432,8 +2432,6 @@ Edward P. Tryon: "In answer to the question of why it happened, I
 offer the modest proposal that our Universe is simply one of those
 things which happen from time to time."
 
-Johissing."
-
 Rich Cook: "Programming today is a race between software engineers
 striving to build bigger and better idiot-proof programs, and the
 Universe trying to produce bigger and better idiots.  So far, the
