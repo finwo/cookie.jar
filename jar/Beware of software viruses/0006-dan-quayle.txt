@@ -1,0 +1,3 @@
+Beware of software viruses!
+DAN QUAYLE VIRUS: Prevents your system from spawning any child process
+without joining into a binary network.
