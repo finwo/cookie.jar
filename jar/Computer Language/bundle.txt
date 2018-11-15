@@ -43,7 +43,7 @@ FLOPPY: The condition of a constant computer user's stomach due
 to lack of exercise and a steady diet junk food (see "Chips").
 
 From the Computer Language files:
-HARWARE: Tools, such as lawnmowers, rakes and other heavy equipment
+HARDWARE: Tools, such as lawnmowers, rakes and other heavy equipment
 you haven't laid a finger on since getting your computer.
 
 From the Computer Language files:
