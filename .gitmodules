@@ -1,0 +1,3 @@
+[submodule "jar/mubaris/motivate"]
+	path = jar/mubaris/motivate
+	url = https://github.com/mubaris/motivate

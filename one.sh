@@ -1,3 +1,9 @@
 #!/usr/bin/env bash
 WD=$(dirname $0)
-cat "$(find $WD/jar -type f | grep -v bundle | shuf -n 1)"
+
+JSE=$(command -v node mujs | head -n 1)
+git submodule update --init --recursive
+FILE=$(find $WD/jar -type f -name *.json | shuf -n 1)
+
+echo $FILE
+cat "${FILE}" | $JSE $WD/one.js

@@ -1,0 +1,16 @@
+{
+  "group" : "Beware of software viruses!",
+  "data"  : [
+    {
+      "name" : "BOBBIT VIRUS",
+      "text" : "Removes a vital part of your hard disk then re-attachs it. (But that part will never work again.)"
+    },
+    {
+      "name" : "OPRAH WINFREY VIRUS",
+      "text" : "Your 200MB hard drive suddenly shrinks to 80MB, and then slowly expands back to 200MB."
+    }, {
+      "name": "POLITICALLY CORRECT VIRUS",
+      "text": "Refers to itself as an \"electronic microorganism.\""
+    }
+  ]
+}
