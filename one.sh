@@ -2,8 +2,6 @@
 WD=$(dirname $0)
 
 JSE=$(command -v node mujs | head -n 1)
-git submodule update --init --recursive
+git submodule update --init --recursive &>/dev/null
 FILE=$(find $WD/jar -type f -name *.json | shuf -n 1)
-
-echo $FILE
 cat "${FILE}" | $JSE $WD/one.js
